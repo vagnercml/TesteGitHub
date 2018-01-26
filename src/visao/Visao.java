@@ -8,6 +8,7 @@ public class Visao {
 		Controle c = new Controle();
 		
 		System.out.println(c.nomeSO());
+		
 		System.out.println(c.versaoSO());
 	}
 
